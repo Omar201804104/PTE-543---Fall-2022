@@ -1,0 +1,10 @@
+Notes:
+
+-Each Cell must contain only 8 points with x, y, and z values.
+-If user attempts to enter more than 8 points for a ssingle Cell the program will display a Warning.
+-The coords of a well are represented using a vertical or horizontal line.
+-The line must consist of a minimum of 3+ points.
+-The line can contain as many points as desired.
+-Each point representing the well must contain an x, y, and z coord.
+-Keywords in the .pte file must remain untouched for the proper execution of the code.
+

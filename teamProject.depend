@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1670200339 source:c:\users\omar\desktop\fall 2022\life cycle & risk management\new project files\teamproject\main.cpp
+	<iostream>
+	"Point.h"
+	"GridCell.h"
+	"GridRes.h"
+	<fstream>
+	<vector>
+
+1670193646 c:\users\omar\desktop\fall 2022\life cycle & risk management\new project files\teamproject\point.h
+
+1670199792 c:\users\omar\desktop\fall 2022\life cycle & risk management\new project files\teamproject\gridcell.h
+	"Point.h"
+	<vector>
+	<string>
+
+1669836201 source:c:\users\omar\desktop\fall 2022\life cycle & risk management\new project files\teamproject\point.cpp
+	"Point.h"
+	<fstream>
+	<vector>
+	<iostream>
+
+1670199927 source:c:\users\omar\desktop\fall 2022\life cycle & risk management\new project files\teamproject\gridcell.cpp
+	"GridCell.h"
+	"Point.h"
+	<vector>
+	<fstream>
+	<iostream>
+
+1670199955 source:c:\users\omar\desktop\fall 2022\life cycle & risk management\new project files\teamproject\gridres.cpp
+	"GridRes.h"
+	"GridCell.h"
+	"Point.h"
+	<fstream>
+	<iostream>
+	<vector>
+
+1670194852 c:\users\omar\desktop\fall 2022\life cycle & risk management\new project files\teamproject\gridres.h
+	"GridCell.h"
+	<vector>
+
+1670443567 source:c:\users\omarb\desktop\new project files\teamproject\gridres.cpp
+	"GridRes.h"
+	"GridCell.h"
+	"Point.h"
+	"Well.h"
+	<fstream>
+	<iostream>
+	<vector>
+
+1670449529 c:\users\omarb\desktop\new project files\teamproject\gridres.h
+	"GridCell.h"
+	"Well.h"
+	<vector>
+
+1670447927 c:\users\omarb\desktop\new project files\teamproject\gridcell.h
+	"Point.h"
+	<vector>
+	<string>
+
+1670447927 c:\users\omarb\desktop\new project files\teamproject\point.h
+
+1670447305 source:c:\users\omarb\desktop\new project files\teamproject\main.cpp
+	<iostream>
+	"Point.h"
+	"GridCell.h"
+	"GridRes.h"
+	"Well.h"
+	<fstream>
+	<vector>
+
+1670447927 source:c:\users\omarb\desktop\new project files\teamproject\point.cpp
+	"Point.h"
+	<fstream>
+	<vector>
+	<iostream>
+
+1670449496 source:c:\users\omarb\desktop\new project files\teamproject\gridcell.cpp
+	"GridCell.h"
+	"Point.h"
+	<vector>
+	<fstream>
+	<iostream>
+
+1670447067 c:\users\omarb\desktop\new project files\teamproject\well.h
+	"Point.h"
+	<vector>
+
+1670447067 source:c:\users\omarb\desktop\new project files\teamproject\well.cpp
+	"Well.h"
+	"Point.h"
+	"GridCell.h"
+	<vector>
+	<fstream>
+	<iostream>
+
