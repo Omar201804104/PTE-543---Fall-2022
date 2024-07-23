@@ -21,13 +21,5 @@ Before using this program, ensure that you have:
 - Keywords in the file must remain untouched for the proper execution of the code.
 
   ## File Format
- Keyword	Significance
-//Grid Reservoir	Initiates the creation of the reservoir from grid cells.
-//Number of cells	Specifies how many grid cells  the reservoir is made of.
-//BEG GRID	Specifies for the program to start reading the coordinates of each grid cell.
-//END GRID	Specifies for the program to stop reading coordinates of the grid cells.
-//Well	Initiates the creation of the wells.
-//Number of Wells	Specifies how many wells are available to be created
-//Number of points in each well	Specifies a constant number of points that each well is made up of.
-//BEG WELL	Specifies for the program to start reading the coordinates of each well.
-//END WELL	Specifies for the program to stop reading the coordinates of the wells.
+![Keywords](https://raw.githubusercontent.com/Omar201804104/PTE-543---Fall-2022/main/File%20Format.png)
+
