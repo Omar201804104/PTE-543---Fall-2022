@@ -1,5 +1,5 @@
 # PTE-543---Fall-2022
-# C++ Well Interestion Program
+# Well Interestion Program
 ## Program Description
 This program reads the coordinates of a reservoir and its respective wells from a file. Then it checks for each well's intersection point with the reservoir, specifying the grid cell that each well intersects. 
 ## Program Pre-requisites
